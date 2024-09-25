@@ -1,6 +1,12 @@
-[<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
+</p>
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=nithintejesh&label=Profile%20views&color=0e75b6&style=flat" alt="akash23536" /> 
+</p>
+
 <hr>
-<h1 align="left">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Nithin Tejesh</h1>
+<h1 align="left">Hi👋, I'm Nithin Tejesh</h1>
 
  ABOUT ME ✌ 
  Lorem ipsum odor amet, consectetuer adipiscing elit. Mattis praesent tellus lobortis consequat sollicitudin elit ullamcorper? Sit sollicitudin vulputate sit cras, vehicula a efficitur consectetur. Platea egestas sollicitudin lectus habitasse ridiculus aliquet. Etiam nam dolor et potenti integer aliquam luctus cras.
@@ -23,7 +29,7 @@
 <!-- <a href="https://www.leetcode.com/nithintejesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1918380087akash" height="30" width="40" /></a> -->
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
