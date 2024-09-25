@@ -3,23 +3,16 @@
 <h1 align="left">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Nithin Tejesh</h1>
 <hr>
  ABOUT ME ✌ 
- I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript; I build websites that delight and inform. I do it well. I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. I do my best to stay on top of changes in the state of the art so that I can meet challenges with tools well suited to the job at hand...✌✌ 
+ Lorem ipsum odor amet, consectetuer adipiscing elit. Mattis praesent tellus lobortis consequat sollicitudin elit ullamcorper? Sit sollicitudin vulputate sit cras, vehicula a efficitur consectetur. Platea egestas sollicitudin lectus habitasse ridiculus aliquet. Etiam nam dolor et potenti integer aliquam luctus cras.
 <hr>
 <p align="center">	
 <img src="https://readme-typing-svg.herokuapp.com?lines=नमस्ते;Hello;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ;Bonjour;こんにちは;Hola;안녕하세요&center=true&width=380&height=45">    
 </p>
 <hr>
-<pre>
-💻 Learning full stack and other programming languages
-🌟 Main languages: C++, Python
-🚩 Interested in Front-End Development
-⚡ Fun fact Coding is a passion and not profession
-👯 I’m looking to work on some best projects so i can learn new skills
-</pre>
 
 <hr>
 <img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><br>
-- 👨‍💻 Checkout my profile at (https://akash23536.github.io/MyPortfolio/) <br>
+- 👨‍💻 Checkout my profile at (#Portfolio link) <br>
 - 📫 How to reach me ->  nithintejesh@gmail.com
 
 
