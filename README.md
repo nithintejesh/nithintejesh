@@ -1,5 +1,4 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash23536&label=Profile%20views&color=0e75b6&style=flat" alt="akash23536" /> </p>
 <hr>
 <h1 align="left">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Nithin Tejesh</h1>
 <hr>
@@ -21,12 +20,12 @@
 <hr>
 <img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><br>
 - 👨‍💻 Checkout my profile at (https://akash23536.github.io/MyPortfolio/) <br>
-- 📫 How to reach me ->  23536akash.2021@gmail.com
+- 📫 How to reach me ->  nithintejesh@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akash-bhadana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-bhadana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nithintejesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-bhadana" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/23536akash_2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="23536akash_2021" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/1918380087akash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1918380087akash" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/1918380087akash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="(<1918380087akash>/profile)" height="30" width="40" /></a>
