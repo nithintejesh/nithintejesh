@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash23536&label=Profile%20views&color=0e75b6&style=flat" alt="akash23536" /> </p>
 <hr>
-<h1 align="left">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Akash Bhadana</h1>
+<h1 align="left">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Nithin Tejesh</h1>
 <hr>
  ABOUT ME ✌ 
  I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript; I build websites that delight and inform. I do it well. I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. I do my best to stay on top of changes in the state of the art so that I can meet challenges with tools well suited to the job at hand...✌✌ 
@@ -12,7 +12,7 @@
 <hr>
 <pre>
 💻 Learning full stack and other programming languages
-🌟 Main languages: c++, JavaScript
+🌟 Main languages: C++, Python
 🚩 Interested in Front-End Development
 ⚡ Fun fact Coding is a passion and not profession
 👯 I’m looking to work on some best projects so i can learn new skills
