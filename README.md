@@ -8,9 +8,12 @@
 <hr>
 <h1 align="left">Hi👋, I'm Nithin Tejesh</h1>
 
- ABOUT ME ✌ 
- Lorem ipsum odor amet, consectetuer adipiscing elit. Mattis praesent tellus lobortis consequat sollicitudin elit ullamcorper? Sit sollicitudin vulputate sit cras, vehicula a efficitur consectetur. Platea egestas sollicitudin lectus habitasse ridiculus aliquet. Etiam nam dolor et potenti integer aliquam luctus cras.
- 
+ #### ABOUT ME ✌️
+
+I’m a developer with a passion for solving problems and building cool things. From web development to exploring the latest tech trends, I’m always curious and eager to dive into new challenges.
+
+Whether it’s crafting seamless user experiences or learning a new skill on the fly, I thrive in environments where I can push boundaries and grow. If it’s something worth building, I’m all in. 🚀
+
 <hr>
 <p align="center">	
 <img src="https://readme-typing-svg.herokuapp.com?lines=नमस्ते;Hello;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ;Bonjour;こんにちは;Hola;안녕하세요&center=true&width=380&height=45">    
