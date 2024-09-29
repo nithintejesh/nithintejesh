@@ -21,7 +21,7 @@ Whether it’s crafting seamless user experiences or learning a new skill on the
 <hr>
 
 <!-- <img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><br> -->
-- 👨‍💻 Checkout my profile at (#Portfolio link) <br>
+- 👨‍💻 Checkout my profile at [nithintejesh.netlify.app](https://nithintejesh.netlify.app)
 - 📫 How to reach me ->  nithintejesh@gmail.com
 
 
